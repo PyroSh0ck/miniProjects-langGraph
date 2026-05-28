@@ -22,6 +22,7 @@ agent = create_agent(
 
 def process(state: AgentState) -> AgentState:
     response = agent.invoke({"messages": state["messages"]})
+    print(f"\nRaw AI Response: {response}")
     print(f"\nAI response: {response['messages'][-1].content[0]['text']}")
     return state
 
