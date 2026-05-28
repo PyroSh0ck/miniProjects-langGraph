@@ -1,0 +1,18 @@
+Conversaton History:
+You:  Yo my name is steve
+
+AI:  [{'type': 'text', 'text': 'Hey Steve! Nice to meet you. How’s your day going? Anything on your mind today?', 'extras': {'signature': 'EjQKMgEMOdbHxk+v0+ynBM0nKulmxDt/fsPUAZEeBsD4y2ovVq2Qqu61OXT5VT2tCnA7A75e'}}]
+
+You:  I wanted to tell u my favorite color is navy blue
+
+AI:  [{'type': 'text', 'text': 'That’s a solid choice, Steve! Navy blue is a classic—it’s calm, professional, and honestly, it looks good on just about everything. \n\nAre you a fan of it because of the way it looks, or does it just give off a good vibe to you?', 'extras': {'signature': 'EjQKMgEMOdbHE0I+vgHrB6PvyD/mvwAPE5CHB9eiX7taXjS6q7QFFFLx4y/ml94JLDXOQku/'}}]
+
+You:  what's my favorite color again?
+
+AI:  [{'type': 'text', 'text': 'Your favorite color is navy blue!', 'extras': {'signature': 'EjQKMgEMOdbH+LLSEqckM5oNP/EN33IgTticGHBdY9bb8WTjHX5ZEuh1LPg9sqmvzl4cl/jJ'}}]
+
+You: Hey whats my name?
+AI: [{'type': 'text', 'text': 'Your name is Steve!', 'extras': {'signature': 'EjQKMgEMOdbHMv5Gth6J+zWIn29y+SYHaPx08VhMn/pSuhv0wDmGBd3Vv8e+PKs2sDjZOba9'}}]
+You: What's my fav color?
+AI: [{'type': 'text', 'text': 'Your favorite color is navy blue!', 'extras': {'signature': 'EjQKMgEMOdbH6g5vzyM3jhNI/tRbQVnOfipFhUybWGLRBfsJCnBfiD8lqE6cYaPLrQN3Tyn7'}}]
+End of conversation
