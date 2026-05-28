@@ -1,2 +1,5 @@
 # Env vars
 .env
+
+# Virtual env
+venv/
